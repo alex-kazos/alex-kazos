@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexkazos
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python,C# and Unity
+- 👀 I’m interested Data Science
+- 🌱 I’m currently learning python,R,SQL
 - 📫 How to reach me ...
 
 <!---
