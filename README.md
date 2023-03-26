@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alexkazos
-- 👀 I’m interested Data Science and ML.
-- 🌱 I’m currently exploring the world of Software and Design
+- 👀 I’m interested Data Science and in Artificial Inteligence.
+- 🌱 I’m currently exploring the world of Generative AI, and App Development.
+- 🧑🏻‍💻 My Go-to languages are Python, R, and Dart, but I also know some Html, Css and Javascript.
 
 - 📫 How to reach me --> 01101011 01100001 01111010 01101111 01110011 01100001 01101100 01100101 01111000 01100001 01101110 01100100 01110010 01101111 01110011 01000000 01100111 01101101 01100001 01101001 01101100 00101110 01100011 01101111 01101101
 
