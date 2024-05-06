@@ -12,3 +12,5 @@
 Alexkazos/Alexkazos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/mr_kazos"><img src="https://api.daily.dev/devcards/v2/8Xp9t3NfnxfP8qxl3kKzg.png?type=default&r=wg1" width="356" alt="Alex's Dev Card"/></a>
