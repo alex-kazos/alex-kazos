@@ -1,15 +1,29 @@
-- 👋 Hi, I’m @Alexkazos
-- 👀 I’m interested Data Science and in Artificial Inteligence.
-- 🌱 I’m currently exploring the world of Generative AI.
- <!---
-- 🧑🏻‍💻 My Go-to languages are Python, R, and Dart, but I also know some Html, Css and Javascript.
---->
-<!---
-- 📫 How to reach me --> 01101011 01100001 01111010 01101111 01110011 01100001 01101100 01100101 01111000 01100001 01101110 01100100 01110010 01101111 01110011 01000000 01100111 01101101 01100001 01101001 01101100 00101110 01100011 01101111 01101101
---->
+# Hi there, I'm Alex Kazos 👋
 
-<!---
-Alexkazos/Alexkazos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a Data Engineer with a strong business background and a passion for harnessing data to drive impactful solutions. I specialize in data cleansing, process automation, and AI development.
 
+## 🚀 About Me
+
+- 💼 I currently lead the AI development team at Generali while also supporting the data engineering team.
+- 🌟 Co-founder of [Essentur](https://www.essentur.com/), a digital transformation agency offering Workflow Automation, Data Solutions, and AI Implementation.
+- 🧠 I love working on innovative projects that combine my technical skills with business insights.
+
+## 🛠️ My Expertise
+
+- **Data Engineering**: Data Cleansing, ETL, Data Pipelines
+- **AI Development**: Machine Learning Models, AI-driven Automation
+- **Process Automation**: Streamlining workflows, RPA (Robotic Process Automation)
+
+## 🌐 Connect with Me
+
+- Twitter: [@mr_kazos](https://twitter.com/mr_kazos)
+- LinkedIn: [Alex Kazos](https://www.linkedin.com/in/alex-kazos/)
+- Medium: [@alexkazos](https://medium.com/@alexkazos)
+
+## 💼 Projects and Contributions
+
+You can explore my projects and contributions here on GitHub. I'm always open to collaboration and connecting with like-minded professionals. Let's build something amazing together!
+
+---
+
+Thanks for stopping by!
