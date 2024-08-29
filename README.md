@@ -1,29 +1,60 @@
-# Hi there, I'm Alex Kazos 👋
+<h1 align="center">Hi there, I'm Alex Kazos 👋</h1>
 
-Welcome to my GitHub! I'm a Data Engineer with a strong business background and a passion for harnessing data to drive impactful solutions. I specialize in data cleansing, process automation, and AI development.
+<p align="center">
+  <strong>Data Engineer | AI Enthusiast | Startup Co-founder</strong>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://twitter.com/mr_kazos">
+    <img src="https://img.shields.io/twitter/follow/mr_kazos?style=social" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/alex-kazos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@alexkazos">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=social&logo=medium" alt="Medium">
+  </a>
+</p>
 
-- 💼 I currently lead the AI development team at Generali while also supporting the data engineering team.
-- 🌟 Co-founder of [Essentur](https://www.essentur.com/), a digital transformation agency offering Workflow Automation, Data Solutions, and AI Implementation.
-- 🧠 I love working on innovative projects that combine my technical skills with business insights.
+---
 
-## 🛠️ My Expertise
+### 🚀 About Me
 
-- **Data Engineering**: Data Cleansing, ETL, Data Pipelines
-- **AI Development**: Machine Learning Models, AI-driven Automation
-- **Process Automation**: Streamlining workflows, RPA (Robotic Process Automation)
+I'm a passionate **Data Engineer** with a strong **Business Background**. I have extensive experience in **data cleansing**, **process automation**, and **AI development**. Currently, I lead the AI development team at Generali and also support the data engineering team.
 
-## 🌐 Connect with Me
+Additionally, I am the co-founder of [**Essentur**](https://www.essentur.com/), a subscription-based digital transformation agency that specializes in **Workflow Automation**, **Data Solutions**, and **AI Implementation**.
+
+---
+
+### 💼 My Expertise
+
+- **Data Engineering**: 
+  - Data Cleansing 
+  - ETL (Extract, Transform, Load) 
+  - Data Pipelines 
+- **AI Development**: 
+  - Machine Learning Models 
+  - AI-driven Automation 
+- **Process Automation**: 
+  - Streamlining Workflows 
+  - RPA (Robotic Process Automation) 
+
+---
+
+### 🌐 Let's Connect
+
+Feel free to reach out through any of the platforms below. I'm always open to discussions, collaborations, and networking!
 
 - Twitter: [@mr_kazos](https://twitter.com/mr_kazos)
 - LinkedIn: [Alex Kazos](https://www.linkedin.com/in/alex-kazos/)
 - Medium: [@alexkazos](https://medium.com/@alexkazos)
 
-## 💼 Projects and Contributions
-
-You can explore my projects and contributions here on GitHub. I'm always open to collaboration and connecting with like-minded professionals. Let's build something amazing together!
+<p align="center">
+  <a href="https://www.essentur.com/">
+    <img src="https://img.shields.io/badge/Website-Essentur.com-blueviolet?style=flat&logo=google-chrome" alt="Website">
+  </a>
+</p>
 
 ---
 
-Thanks for stopping by!
+<h3 align="center">Thanks for stopping by! 😊</h3>
