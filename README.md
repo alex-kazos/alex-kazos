@@ -49,6 +49,8 @@ Feel free to reach out through any of the platforms below. I'm always open to di
 - LinkedIn: [Alex Kazos](https://www.linkedin.com/in/alex-kazos/)
 - Medium: [@alexkazos](https://medium.com/@alexkazos)
 
+<a href="https://app.daily.dev/mr_kazos"><img src="https://api.daily.dev/devcards/v2/8Xp9t3NfnxfP8qxl3kKzg.png?type=wide&r=27b" width="652" alt="Alex's Dev Card"/></a>
+
 <p align="center">
   <a href="https://www.essentur.com/">
     <img src="https://img.shields.io/badge/Website-Essentur.com-blueviolet?style=flat&logo=google-chrome" alt="Website">
