@@ -32,11 +32,6 @@ I'm a passionate Data Engineer with a strong Business Background. I have extensi
 - **[AgeCheck Spotter](https://github.com/alex-kazos/age-order-check)**  
   An AI-powered age verification tool that utilizes GPT-based models to streamline and automate age-check processes in various digital applications.
 
-- **E-commerce Inventory Optimization Engine**  
-  A comprehensive solution for demand forecasting, automated restock recommendations, and dynamic pricing with a visual inventory dashboard. Integrates tools like Airtable, Make.com, and WeWeb.
-
-- **X AI for Support Ticketing**  
-  A Retrieval-Augmented Generation (RAG) powered assistant for first-level support. It helps classify Jira tickets, provides context-aware suggestions, and auto-assigns based on Confluence knowledge.
 
 ---
 
