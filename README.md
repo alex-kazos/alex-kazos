@@ -49,7 +49,7 @@ I'm a passionate Data Engineer with a strong Business Background. I have extensi
 
 ### 🌐 Let's Connect
 Feel free to reach out through any of the platforms below. I'm always open to discussions, collaborations, and networking!
-- Twitter: [@mr_kazos](https://twitter.com/mr_kazos)
+- Twitter: [@a_kazos](https://twitter.com/a_kazos)
 - LinkedIn: [Alex Kazos](https://www.linkedin.com/in/alex-kazos)
 - Medium: [@alexkazos](https://medium.com/@alexkazos)
 
