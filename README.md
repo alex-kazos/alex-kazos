@@ -44,7 +44,7 @@ I'm a passionate Data Engineer with a strong Business Background. I have extensi
 - **[AgeCheck Spotter](https://github.com/alex-kazos/age-order-check)**  
   An AI-powered age verification tool that utilizes AI- models to streamline and automate age-check processes in various digital applications.
 
-- **[Vibe Metrics](https://github.com/alex-kazos/VibeMetrics)**  
+- **[VibeMetrics](https://github.com/alex-kazos/VibeMetrics)**  
  VibeMetrics lets you uncover your music story with personalized insights into your favorite songs, artists, genres, and listening trends!
 
 
