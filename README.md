@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <strong>Data Engineer | AI Enthusiast | Startup Co-founder</strong>
+  <strong>Developer | AI Enthusiast | Startup Co-founder</strong>
 </p>
 <p align="center">
   
@@ -29,15 +29,14 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Data Engineer with a strong Business Background. I have extensive experience in data cleansing, process automation, and AI development. Currently, I lead the AI development team at Generali and also support the data engineering team. Additionally, I am the co-founder of [Essentur](https://www.essentur.com/), a subscription-based digital transformation agency that specializes in Workflow Automation, Data Solutions, and AI Implementation.
-
+I'm a passionate Developer with a strong Business Background. I have extensive experience in data cleansing, process automation, and web development. Currently, I lead the AI development team at Generali and also support the data engineering team. Additionally, I am the co-founder of [Essentur](https://www.essentur.com/), a business product studio.
 ---
 
 ### 💼 My Expertise
 - **Data Engineering**: Data Cleansing, ETL (Extract, Transform, Load), Data Pipelines
 - **AI Development**: Machine Learning Models, AI-driven Automation
 - **Process Automation**: Streamlining Workflows, RPA (Robotic Process Automation)
-
+- **Web Development**: Creating Web Apps with React
 ---
 
 ### 🛠️ Projects
@@ -45,7 +44,7 @@ I'm a passionate Data Engineer with a strong Business Background. I have extensi
   An AI-powered age verification tool that utilizes AI- models to streamline and automate age-check processes in various digital applications.
 
 - **[VibeMetrics](https://github.com/alex-kazos/VibeMetrics)**  
- VibeMetrics lets you uncover your music story with personalized insights into your favorite songs, artists, genres, and listening trends!
+ VibeMetrics lets you uncover your music story with personalized insights into your favourite songs, artists, genres, and listening trends!
 
 
 
