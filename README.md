@@ -30,6 +30,7 @@
 
 ### 🚀 About Me
 I'm a passionate Developer with a strong Business Background. Currently, I lead the AI development team at Generali and also support the data engineering team. Additionally, I am the co-founder of [Essentur](https://www.essentur.com/), a business product studio.
+
 ---
 
 ### 💼 My Expertise
