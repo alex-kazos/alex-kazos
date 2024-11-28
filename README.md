@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <strong>Developer | AI Enthusiast | Startup Co-founder</strong>
+  <strong>Developer | AI Enthusiast | Co-founder</strong>
 </p>
 <p align="center">
   
@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Developer with a strong Business Background. Currently, I lead the AI development team at Generali and also support the data engineering team. Additionally, I am the co-founder of [Essentur](https://www.essentur.com/), a business product studio.
+I'm a passionate Developer with a strong Business Background. Currently, I lead the AI development team at Generali and also support the data engineering team. Additionally, I am the co-founder of [Essentur](https://www.essentur.com/), where I built cool business products.
 
 ---
 
