@@ -70,4 +70,4 @@ Find me here:
 
 ### 📜 Parting Wisdom
 _"Innovation distinguishes between a leader and a follower."_ – Steve Jobs 
-<h3 align="center">Thanks for stopping by! 🚀<</h3>
+<h3 align="center">Thanks for stopping by! 🚀</h3>
