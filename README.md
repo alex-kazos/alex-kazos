@@ -50,7 +50,7 @@ Here’s a glimpse into my arsenal of skills:
 Find me here:  
 - 🐦 **Twitter:** [@a_kazos](https://twitter.com/a_kazos)  
 - 💼 **LinkedIn:** [Alex Kazos](https://www.linkedin.com/in/alex-kazos)  
-- ✍️ **Medium:** [@alexkazos](https://medium.com/@alexkazos)  
+- ✍️ **Substack:** [@alexkazos](https://alexkazos.substack.com/)  
 
 ---
 
