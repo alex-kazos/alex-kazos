@@ -54,20 +54,6 @@ Find me here:
 
 ---
 
-<div align="center">
-  <a href="https://www.essentur.com/">
-    <img src="https://img.shields.io/badge/Website-Essentur.com-0078D4?style=flat&logo=google-chrome" alt="Essentur">
-  </a>
-  <a href="https://twitter.com/a_kazos">
-    <img src="https://img.shields.io/twitter/follow/a_kazos?style=social" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/alex-kazos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
-
----
-
 ### 📜 Parting Wisdom
 _"Innovation distinguishes between a leader and a follower."_ – Steve Jobs 
 <h3 align="center">Thanks for stopping by! 🚀</h3>
