@@ -37,7 +37,11 @@ Here’s a glimpse into my arsenal of skills:
 > **An AI-driven age verification solution** that automates compliance processes with precision, integrating seamlessly into modern platforms.
 
 🎶 **[VibeMetrics](https://github.com/alex-kazos/VibeMetrics)**  
-> Dive deep into your **music journey**—personalized insights into your listening habits, favorite genres, and the vibes that define your soundtrack.  
+> Dive deep into your **music journey**—personalized insights into your listening habits, favourite genres, and the vibes that define your soundtrack.  
+
+🌐 **[Essentur](https://essentur.com/)**  
+> Essentur's custom-built website reflects our ability to merge AI tools with human expertise. Developed in just a week, it highlights our skills in leveraging modern tech stacks and strategic problem-solving to build robust, scalable, and user-focused digital solutions.
+
 
 ---
 
