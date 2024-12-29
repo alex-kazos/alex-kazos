@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/a_kazos">
-    <img src="https://api.daily.dev/devcards/v2/8Xp9t3NfnxfP8qxl3kKzg.png?type=wide&r=27b" width="652" alt="Alex's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/8Xp9t3NfnxfP8qxl3kKzg.png?type=wide&r=xqq" width="652" alt="Alex's Dev Card"/>
   </a>
 </div>
 
