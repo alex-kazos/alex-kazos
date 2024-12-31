@@ -42,6 +42,9 @@ Here’s a glimpse into my arsenal of skills:
 🌐 **[Essentur](https://essentur.com/)**  
 > Essentur's custom-built website reflects our ability to merge AI tools with human expertise. Developed in just a week, it highlights our skills in leveraging modern tech stacks and strategic problem-solving to build robust, scalable, and user-focused digital solutions.
 
+🤖 **[Stock Pilot](https://stockpilotai.com/)**  
+> An AI-powered inventory management solution that ensures optimal stock levels through predictive analytics and smart alerts, helping businesses maintain lean and efficient inventories and preventing stockouts of best-selling products.
+
 
 ---
 
