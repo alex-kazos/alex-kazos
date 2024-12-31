@@ -57,7 +57,7 @@ Here’s a glimpse into my arsenal of skills:
 Find me here:  
 - 🐦 **Twitter:** [@a_kazos](https://twitter.com/a_kazos)  
 - 💼 **LinkedIn:** [Alex Kazos](https://www.linkedin.com/in/alex-kazos)  
-- ✍️ **Substack:** [@alexkazos](https://alexkazos.substack.com/)  
+- ✍️ **Substack:** [Built by Alex](https://alexkazos.substack.com/)  
 
 ---
 
