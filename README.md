@@ -36,7 +36,7 @@ Here’s a glimpse into my arsenal of skills:
 💡 **[AgeCheck Spotter](https://github.com/alex-kazos/age-order-check)**  
 > **An AI-driven age verification solution** that automates compliance processes with precision, integrating seamlessly into modern platforms.
 
-🎶 **[VibeMetrics](https://github.com/alex-kazos/VibeMetrics)**  
+🎶 **[VibeMetrics](https://vibemetrics.pages.dev/)**  
 > Dive deep into your **music journey**—personalized insights into your listening habits, favourite genres, and the vibes that define your soundtrack.  
 
 🌐 **[Essentur](https://essentur.com/)**  
