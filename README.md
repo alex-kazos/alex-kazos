@@ -4,9 +4,9 @@
 
 ## 🦾 About Me
 
-**Developer | AI Enthusiast | Co-founder**
+**Developer | AI Enthusiast | Author**
 
-Leading AI development at Generali and co-founding [Essentur](https://www.essentur.com/), I transform ideas into innovative products.
+Leading AI development at Generali and transforming ideas into innovative products.
 
 ## 🌎 Connect
 
