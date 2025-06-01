@@ -12,6 +12,6 @@ Leading AI development at Generali and transforming ideas into innovative produc
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-kazos)
 - ✍️ [Substack](https://alexkazos.substack.com/)
-- 🐦 [@a_kazos](https://twitter.com/a_kazos)
+- 🐦 [@alex_kazos](https://twitter.com/alex_kazos)
 
 *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
