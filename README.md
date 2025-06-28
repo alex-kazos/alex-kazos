@@ -4,9 +4,9 @@
 
 ## 🦾 About Me
 
-**Developer | AI Enthusiast | Author**
+**Developer | Author**
 
-Leading AI development at Generali and transforming ideas into innovative products.
+Sharing insights, experiences, and projects from my journey as a developer and product creator, with a focus on tech, AI, and innovation.
 
 ## 🌎 Connect
 
