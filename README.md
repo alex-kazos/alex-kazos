@@ -3,7 +3,7 @@
 > "Code is my canvas, AI my muse, and innovation my masterpiece."
 
 ###  About Me  
-👨‍💻 **Python Developer** | 🤖 **AI Enthusiast** | 🧑‍🎓 **Student**
+👨‍💻 **Python Developer** | 🤖 **AI Specialist** | 🧑‍🎓 **Student**
 
 I'm a Python Developer with a Business background. I'm an experienced Data Engineer who pivots to software engineering. I'm an AI enthusiast who knows all about GenAI - Try Me!  Currently, I'm doing my master's in Development & Cybersecurity while also learning about software design.
 
