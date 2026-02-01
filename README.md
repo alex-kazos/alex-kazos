@@ -16,22 +16,13 @@ I've developed [Stockpilot AI](https://stockpilotai.com/), an intelligent invent
 
 ---
 
-**Open to:**  
+### **Open to:**  
 - Challenging technical problems  
 - Startup collaborations  
 - Speaking opportunities on AI, business, and tech innovations  
 
-Find me here:  
+### Find me here:  
 - 🐦 **Twitter:** [@alex_kazos](https://twitter.com/alex_kazos)  
 - 💼 **LinkedIn:** [Alex Kazos](https://www.linkedin.com/in/alex-kazos)  
 - ✍️ **substack:** [@alexkazos](https://alexkazos.substack.com/)  
- 
-
-
-
-## 🌎 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-kazos)
-- ✍️ [Substack](https://alexkazos.substack.com/)
-- 🐦 [@alex_kazos](https://twitter.com/alex_kazos)
 
