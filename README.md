@@ -5,7 +5,7 @@
 ### About Me
 👨‍💻 **Python Developer** | 🤖 **AI Specialist** | 🧑‍🎓 **Student**
 
-I'm a Python Developer with a Business background. I'm an experienced Data Engineer who pivots to software engineering. I'm an AI enthusiast who knows all about GenAI - Try Me!  Currently, I'm doing my master's in Development & Cybersecurity while also learning about software design. You can also Learn More [here](**url**).
+I'm a Python Developer with a Business background. I'm an experienced Data Engineer who pivots to software engineering. I'm an AI enthusiast who knows all about GenAI - Try Me!  Currently, I'm doing my master's in Development & Cybersecurity while also learning about software design. You can also Learn More [here](https://alexkazos.com/).
 
 Working @ Generali | Studying @ AUEB | Writing @ Substack
 
