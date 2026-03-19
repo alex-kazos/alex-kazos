@@ -1,4 +1,4 @@
-# Alex Kazos 🚀
+# Alex Kazos
 
 > "Code is my canvas, AI my muse, and innovation my masterpiece."
 
