@@ -42,6 +42,10 @@ Tells you whether a URL is legitimate or phishing. [Try it live](https://alexkaz
 My site, built as a code editor, because I couldn't help myself.
 `TypeScript` `React`
 
+**[vibe with me]([https://alexkazos.com](https://vibe.alexkazos.com/)/)**
+Built to sit in the background and look good while Spotify plays.
+`TypeScript` `React`
+
 ---
 
 ### Writing
