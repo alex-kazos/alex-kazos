@@ -66,7 +66,7 @@ Built to sit in the background and look good while Spotify plays.
 
 ### Find me here
 
-[Website](https://alexkazos.com/) · [LinkedIn](https://www.linkedin.com/in/alex-kazos) · [Substack](https://alexkazos.substack.com/) · [Twitter](https://twitter.com/alex_kazos) · kazosalexandros@gmail.com
+[Website](https://alexkazos.com/) · [LinkedIn](https://www.linkedin.com/in/alex-kazos) · [Substack](https://alexkazos.substack.com/) · kazosalexandros@gmail.com
 
 ---
 
