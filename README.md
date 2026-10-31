@@ -77,7 +77,7 @@ Built to sit in the background and look good while Spotify plays.
 `Python` `SQL` `TypeScript` `JavaScript`
 
 **AI & Machine Learning**  
-`OpenAI` `LLM APIs` `scikit-learn` `OpenCV`
+`OpenAI` `LLM APIs` `scikit-learn` `OpenCV` `pytorch`
 
 **Data Engineering**  
 `Apache Kafka` `Apache Spark` `Pandas` `Polars`
