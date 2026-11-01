@@ -31,8 +31,8 @@ Inventory forecasting and analytics for e-commerce. AI restock recommendations, 
 `TypeScript` `Python` `LLM APIs` `Firestore`
 
 **[Real-Time Traffic Monitoring](https://github.com/alex-kazos/live-traffic-monitoring)**
-Highway camera feeds ingested through Kafka, processed with Spark Structured Streaming, vehicles detected with OpenCV. Started as a university project and got comprehensively out of hand.
-`Python` `Apache Kafka` `Apache Spark` `OpenCV`
+Highway camera feeds ingested through Kafka, processed with Spark Structured Streaming, vehicles detected with OpenCV. Started as a university project and got comprehensively out of hand. A Live monitoring dashboard that you can [check!](https://traffic.alexkazos.com/)
+`Python` `Apache Kafka` `Apache Spark` `OpenCV` `AWS`  `Cloudflare`
 
 **[ML URL Classifier](https://github.com/alex-kazos/ml-url)**
 Tells you whether a URL is legitimate or phishing. [Try it live](https://alexkazos.com/) — it runs on a free tier, so give it a moment to wake up and stretch.
@@ -86,6 +86,6 @@ Built to sit in the background and look good while Spotify plays.
 `Django` `Node.js` `REST APIs` `MySQL` `MongoDB` `Firestore`
 
 **Infrastructure & Tools**  
-`Docker` `Azure` `Cloudflare` `Git` `Linux`
+`Docker` `Azure` `AWS` `Cloudflare` `Git` `Linux`
 
 <sub>PS: Always building something. Rarely finishing everything.</sub>
