@@ -26,9 +26,9 @@ alex = {
 
 ### Things I've built
 
-**[StockPilot AI](https://stockpilotai.com/)** · [`stockpilot`](https://github.com/alex-kazos/stockpilot)
+**[Pithos](https://alexkazos.com/pithos/)** · [`pithos`](https://github.com/alex-kazos/pithos)
 Inventory forecasting and analytics for e-commerce. AI restock recommendations, stock prediction, and a chat interface over your live inventory. Plugs into Shopify, BigCommerce and Square.
-`TypeScript` `Python` `LLM APIs` `Firestore`
+`TypeScript` `Python` `LLM APIs` `Postgres` `Docker`
 
 **[Real-Time Traffic Monitoring](https://github.com/alex-kazos/live-traffic-monitoring)**
 Highway camera feeds ingested through Kafka, processed with Spark Structured Streaming, vehicles detected with OpenCV. Started as a university project and got comprehensively out of hand. A Live monitoring dashboard that you can [check!](https://traffic.alexkazos.com/)
