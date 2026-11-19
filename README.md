@@ -34,8 +34,12 @@ Inventory forecasting and analytics for e-commerce. AI restock recommendations, 
 Highway camera feeds ingested through Kafka, processed with Spark Structured Streaming, vehicles detected with OpenCV. Started as a university project and got comprehensively out of hand. A Live monitoring dashboard that you can [check!](https://traffic.alexkazos.com/)
 `Python` `Apache Kafka` `Apache Spark` `OpenCV` `AWS`  `Cloudflare`
 
+**[Designed To Flow](https://flow.alexkazos.com/)**
+An interactive, story-driven course on data engineering - follow one sensor reading from a raw event all the way to a live dashboard, lesson by lesson..
+`TypeScript` `Astro`
+
 **[ML URL Classifier](https://github.com/alex-kazos/ml-url)**
-Tells you whether a URL is legitimate or phishing. [Try it live](https://alexkazos.com/) — it runs on a free tier, so give it a moment to wake up and stretch.
+Tells you whether a URL is legitimate or phishing. [Try it live](https://alexkazos.com/) - it runs on a free tier, so give it a moment to wake up and stretch.
 `Python` `scikit-learn` `REST API`
 
 **[alexkazos.com](https://alexkazos.com/)**
