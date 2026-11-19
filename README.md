@@ -26,7 +26,7 @@ alex = {
 
 ### Things I've built
 
-**[Pithos](https://alexkazos.com/pithos/)** · [`pithos`](https://github.com/alex-kazos/pithos)
+**[Pithos](https://alexkazos.com/pithos/)**
 Inventory forecasting and analytics for e-commerce. AI restock recommendations, stock prediction, and a chat interface over your live inventory. Plugs into Shopify, BigCommerce and Square.
 `TypeScript` `Python` `LLM APIs` `Postgres` `Docker`
 
